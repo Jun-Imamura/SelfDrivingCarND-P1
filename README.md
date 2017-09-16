@@ -1,3 +1,5 @@
+if you want to see mathjax enabled html, please see [here](./README.html)
+
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
